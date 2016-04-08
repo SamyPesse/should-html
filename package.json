@@ -22,7 +22,8 @@
   "homepage": "https://github.com/SamyPesse/should-html#readme",
   "dependencies": {
     "deep-equal": "^1.0.1",
-    "himalaya": "^0.2.0"
+    "himalaya": "^0.2.0",
+    "pretty": "^1.0.0"
   },
   "devDependencies": {
     "mocha": "^2.4.5",
