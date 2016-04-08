@@ -1,0 +1,31 @@
+{
+  "name": "should-html",
+  "version": "0.0.0",
+  "description": "HTML testing assertions for Should.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec --bail --timeout 15000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamyPesse/should-html.git"
+  },
+  "keywords": [
+    "should-js",
+    "html"
+  ],
+  "author": "Samy Pesse <samypesse@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SamyPesse/should-html/issues"
+  },
+  "homepage": "https://github.com/SamyPesse/should-html#readme",
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "himalaya": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.0"
+  }
+}
