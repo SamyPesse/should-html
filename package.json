@@ -22,7 +22,7 @@
   "homepage": "https://github.com/SamyPesse/should-html#readme",
   "dependencies": {
     "dom-compare": "^0.2.1",
-    "jsdom": "^9.0.0"
+    "jsdom": "^6.0.0"
   },
   "devDependencies": {
     "mocha": "^2.4.5",
