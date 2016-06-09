@@ -1,6 +1,6 @@
 {
   "name": "should-html",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "HTML testing assertions for Should.js",
   "main": "lib/index.js",
   "scripts": {
