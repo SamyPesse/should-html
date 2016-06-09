@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/SamyPesse/should-html#readme",
   "dependencies": {
-    "dom-compare": "^0.2.1",
-    "jsdom": "^9.0.0"
+    "dom-compare": "Olegas/dom-compare#d9e9308f45beef4d91af9514093ff8a7a4dc64f6",
+    "jsdom": "7.0.2"
   },
   "devDependencies": {
     "mocha": "^2.4.5",
